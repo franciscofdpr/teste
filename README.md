@@ -1,2 +1,5 @@
 # teste
-Meu novo repositorio
+
+Meu novo repositório
+
+Acrescentando mais informações ao repositório!
